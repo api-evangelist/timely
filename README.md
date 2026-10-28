@@ -64,5 +64,26 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Timely (Memory AS) is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://timelyapp.com/
+Timely provides AI‑powered automatic time‑tracking software for consultancies, agencies and SaaS businesses. Its platform captures billable hours, improves utilization, and offers data‑driven insights to help teams work smarter and increase profitability.
+
+**Areas:** Company · Time Tracking · AI · SaaS · Productivity
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://timelyapp.com/)
+- [Documentation](https://developer.timelyapp.com/)
+- [Getting started](https://www.timely.com/help/handbook/getting-started/quick-start-onboarding/)
+- [Pricing](https://www.timely.com/pricing/)
+- [Support](https://www.timely.com/help/)
+- [Changelog](https://www.timely.com/changelog/)
+- [Blog](https://www.timely.com/blog/)
+- [Security](https://www.timely.com/security/)
+- [Compliance](https://www.timely.com/security/)
+- [Terms of service](https://www.timely.com/terms/)
+- [Privacy policy](https://www.timely.com/privacy-policy/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/timely/](https://apis.io/providers/timely/).
